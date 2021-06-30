@@ -1,3 +1,3 @@
-module github.com/paulwizviz/go-project/mylib
+module github.com/paulwizviz/go-workspace/mylib
 
 go 1.16
