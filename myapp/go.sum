@@ -1,2 +1,2 @@
-github.com/paulwizviz/go-project/mylib v0.0.0-20210630133349-5c884d670d89 h1:tFY6htchfg7DvOR4jugxQ2VVz+/ZNN99k2hMHyB75VE=
-github.com/paulwizviz/go-project/mylib v0.0.0-20210630133349-5c884d670d89/go.mod h1:LCFEz5ni5mE05LeXXrmecbLLPl2FutkaPV9BMWleXUo=
+github.com/paulwizviz/go-workspace/mylib v0.0.0-20210630153849-b57a67f783ef h1:XHuU58Kqu/H+pAqBiu0JHortID60W73lg9dphKsq/II=
+github.com/paulwizviz/go-workspace/mylib v0.0.0-20210630153849-b57a67f783ef/go.mod h1:Y1YbbzMlk1xIXODxuC0U+ALbZ0FRgotus0K0iNCUDw0=

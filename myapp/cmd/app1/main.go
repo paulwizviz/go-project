@@ -5,7 +5,7 @@ import (
 
 	"myapp/internal/mathutil"
 
-	"github.com/paulwizviz/go-project/mylib"
+	"github.com/paulwizviz/go-workspace/mylib"
 )
 
 func main() {
